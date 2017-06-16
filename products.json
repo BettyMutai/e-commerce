@@ -1,0 +1,14 @@
+{ "products": [{
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/89/f3/d8/89f3d8fd8bf746a84090d499c475df89.jpg",
+    "price": 4000
+  }, {
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/3d/14/6e/3d146ebc8574cc32842c698243f23251.jpg",
+    "price": 3500
+  }, {
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/45/96/30/4596300149c133a5bc8431b9cf340260.jpg",
+    "price": 2500
+  }, {
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/7a/03/4b/7a034b8e6e23cf6cc41521335372885c.jpg",
+    "price": 4500
+  }]
+}
